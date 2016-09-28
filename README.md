@@ -1,4 +1,4 @@
-# Image-Processing
+# Introduction to Image Processing
 Class code: CSC 481
 
 School: DePaul University
